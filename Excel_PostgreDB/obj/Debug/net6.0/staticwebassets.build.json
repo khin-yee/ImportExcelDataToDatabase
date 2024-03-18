@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0Ab8RVuMwRKDf6kb55HFpkvTuWLYn40UbUrV8ypgkkI=",
+  "Source": "Excel_PostgreDB",
+  "BasePath": "_content/Excel_PostgreDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,34 @@
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Service.deps.json
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Service.runtimeconfig.json
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Service.dll
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Service.pdb
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Domain.dll
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Domain.pdb
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.csproj.AssemblyReference.cache
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.AssemblyInfoInputs.cache
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.AssemblyInfo.cs
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.csproj.CoreCompileInputs.cache
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.csproj.CopyComplete
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.dll
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\refint\Excel_PostgreDB.Service.dll
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.pdb
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.genruntimeconfig.cache
+C:\C# Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\ref\Excel_PostgreDB.Service.dll
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Service.deps.json
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Service.runtimeconfig.json
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Service.dll
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Service.pdb
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Domain.dll
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\bin\Debug\net6.0\Excel_PostgreDB.Domain.pdb
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.csproj.AssemblyReference.cache
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.AssemblyInfoInputs.cache
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.AssemblyInfo.cs
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.csproj.CoreCompileInputs.cache
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.csproj.CopyComplete
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.dll
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\refint\Excel_PostgreDB.Service.dll
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.pdb
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\Excel_PostgreDB.Service.genruntimeconfig.cache
+C:\C# Pratice Project\Excel_PostgreDB\Excel_PostgreDB.Service\obj\Debug\net6.0\ref\Excel_PostgreDB.Service.dll

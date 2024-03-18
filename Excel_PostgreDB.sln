@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel_PostgreDB", "Excel_PostgreDB\Excel_PostgreDB.csproj", "{B8F22D88-635D-4191-8B5C-A08426C4017F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel_PostgreDB.Domain", "Excel_PostgreDB.Domain\Excel_PostgreDB.Domain.csproj", "{AEEC72AE-A436-4629-B408-B69F2F8A756C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel_PostgreDB.Repository", "Excel_PostgreDB.Repository\Excel_PostgreDB.Repository.csproj", "{5EBEC92D-180C-4C77-9E3D-6C749C492A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel_PostgreDB.Service", "Excel_PostgreDB.Service\Excel_PostgreDB.Service.csproj", "{9886565B-66E0-44AF-A1EF-8B96D17506DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F22D88-635D-4191-8B5C-A08426C4017F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F22D88-635D-4191-8B5C-A08426C4017F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F22D88-635D-4191-8B5C-A08426C4017F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F22D88-635D-4191-8B5C-A08426C4017F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEEC72AE-A436-4629-B408-B69F2F8A756C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEC72AE-A436-4629-B408-B69F2F8A756C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEC72AE-A436-4629-B408-B69F2F8A756C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEC72AE-A436-4629-B408-B69F2F8A756C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBEC92D-180C-4C77-9E3D-6C749C492A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBEC92D-180C-4C77-9E3D-6C749C492A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBEC92D-180C-4C77-9E3D-6C749C492A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBEC92D-180C-4C77-9E3D-6C749C492A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9886565B-66E0-44AF-A1EF-8B96D17506DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9886565B-66E0-44AF-A1EF-8B96D17506DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9886565B-66E0-44AF-A1EF-8B96D17506DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9886565B-66E0-44AF-A1EF-8B96D17506DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F637AB62-9EEB-4899-ABEC-A795399694FF}
+	EndGlobalSection
+EndGlobal
